@@ -16,4 +16,5 @@ I functioned as the webmaster, programmer and graphics artist for this website, 
 Project details
 =============
 This website was meant to be interactive, and as a community meant to propagate the spreading of resources to everyone. Coppermine Gallery was used as a way of having users upload, download and exchange information while PHPBB was a valuable tool for creating forums. Furthermore, PHP-Nuke was an ideal content management system that also links very well with phpbb.
-I have various screenshots that were taken and meant to display the look and feel of the website back then.
+
+-Tong Zou
