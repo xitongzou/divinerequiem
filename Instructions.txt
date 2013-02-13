@@ -1,0 +1,40 @@
+; ----------------------------------------------------- 
+;             Radio.Blog, version 2.5
+;             Author: Astro @ Mubility.net
+;             Mail : astro@mubility.com
+;       Updates/Blog: http://www.radioblogclub.com/
+; ----------------------------------------------------- 
+
+
+Radio.Blog Instructions
+-----------------------
+
+
+01.Install Radio.Blog
+---------------------
+- Copy the radio.blog directory on your web server.
+- Edit config.xml to change the color of the skin.
+
+
+02.Creat a SWF Sound
+--------------------
+- Copy your MP3 into the creat.sound directory.
+- Double-click on convert64.bat (this will convert all your MP3 files in RBS format files into the sounds directory)
+- Wait
+- Copy your RBS files into your sounds directory on your web server.
+- refresh and enjoy.
+ 
+
+03.How To
+---------
+- Include radio.blog in my webpage:
+Insert this code in your page:
+<iframe src="radio.blog/index.php" name="radio" scrolling="no" frameborder="0" width="220" height="320"></iframe>
+
+- Autostart a track:
+add ?autoplay=# in front of your url, for example to autostart track number 2:
+http://www.domaine.com/radio.blog/?autoplay=2
+
+- Remove my radio.blog from the radio.blog.club database:
+Set the value of the register tag to 0 : <register value="0" />
+Next time the crawler will visit your radio.blog (less than 48h), your radio.blog and all the tracks references will be removed from the radio.blog database.

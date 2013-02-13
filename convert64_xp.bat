@@ -1,0 +1,1 @@
+FOR %%i IN (*.mp3) DO bin\convert64_xp "%%i"

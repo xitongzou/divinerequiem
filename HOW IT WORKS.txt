@@ -1,0 +1,3 @@
+Copy all the mp3s that you would like on your radio blog in this folder and then run "convert64.bat" for high-quality and "convert32.bat" for low-quality... and the converted files (read: the ones you NOW want) will come out in sounds directory.
+
+If you are runing Windows XP you should use convert_xp.bat.

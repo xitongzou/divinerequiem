@@ -1,0 +1,17 @@
+; ------------------------------------------------------- 
+;             Radio.Blog, Disclamer
+;             Author: Astro @ Mubility.net
+;             Mail : astro@mubility.com
+; Online Version: http://www.radioblogclub.com/disclaimer/
+; -------------------------------------------------------- 
+
+
+Radio.blog is a free software exclusively designed to offer a promoting tool to musical artists and/or any member of the music and entertainment community.
+
+Radio.blog is the sole proprety of Mubility S.A.R.L, Paris (France). All contents of this Web Site, including softwares, graphics, logos, other images, information (hereinafter named the "Material") are protected under both French and foreign copyright, trademark and other laws. All Material is the property of Mubility and is subject to a Software License Agreement that can be obtained upon request.
+
+Mubility typically does not own musical compositions, musical recordings, artwork or visual images (hereinafter named the "Content") of third parties that are available through Radio.blog.
+
+Any individual, group or company using Radio.blog for the purpose of transmiting, distributing, storing any musical content represents and warrants to Mubility that, among other things, they have the rights, licenses, clearances and/or permissions necessary to do so, that the titles, lyrics, music, artist names and marks under which the Content is promoted do not infringe any third party's copyright, patent, trademark, trade secret or other intellectual property rights and that all Content available for use through Radio.blog do not infringe privacy or moral rights, neither is defamatory, obscene, threatening, abusive, or hostile.
+
+Mubility is not liable for any direct, indirect, special, incidental, or consequential damages arising out of the use (or the inability to use) all or any part of the Content. This includes but is not limited to the loss of data or loss of profit, even if Mubility was advised of the possibility of such damages.
